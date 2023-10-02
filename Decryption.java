@@ -8,7 +8,6 @@ Due date:   7-27-23
 import java.io.*;
 import java.util.*;
 public class Decryption {
-
 	public static void main(String[] args) {
 		//Declare variables
 		Scanner kb = new Scanner(System.in);
