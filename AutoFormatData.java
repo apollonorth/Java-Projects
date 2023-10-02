@@ -15,7 +15,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
-public class AutoFormat {
+public class AutoFormatData {
 	public static void main(String[] args) {
 		//create variable to hold file path and number
 		String filePath = "";
