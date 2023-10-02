@@ -142,7 +142,6 @@ public class SinglyLinkedList {
 		else {
 			printBackward(current.getNext());
 			System.out.print(current.getData() + " ");
-			
 		}
 	}
 		
