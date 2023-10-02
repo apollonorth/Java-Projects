@@ -10,11 +10,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Encryption {
 	public static void main(String[] args) {
-		//Display header
-		System.out.println("Programmer: Apollo Schaefer");
-		System.out.println("Course:     COSC 211, SU '23");
-		System.out.println("Lab #:      7");
-		System.out.println("Due date:   7-27-23");
 		//Create scanner object for kb input
 		Scanner kb = new Scanner(System.in);
 		boolean loop = true;
