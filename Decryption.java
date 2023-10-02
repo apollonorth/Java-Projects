@@ -10,11 +10,6 @@ import java.util.*;
 public class Decryption {
 
 	public static void main(String[] args) {
-		//Display header
-		System.out.println("Programmer: Apollo Schaefer");
-		System.out.println("Course:     COSC 211, SU '23");
-		System.out.println("Lab #:      7");
-		System.out.println("Due date:   7-27-23");
 		//Declare variables
 		Scanner kb = new Scanner(System.in);
 		boolean loop = true;
