@@ -1,7 +1,7 @@
 /*
  * Description: Defines a class that implements cloneable interface and stores generic values into an ArrayList. 
  * Has a method to randomly draw objects from the list.
- *
+ * Requires: Driver class with main method.
  * Programmer: Apollo Schaefer
  * Course: COSC 211, SU '23
  * Lab:    10
