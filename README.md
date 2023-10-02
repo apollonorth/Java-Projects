@@ -1,2 +1,2 @@
 # Projects
-A place to upload projects that I do not feel deserve their own repository. 
+A place to upload smaller projects that do not deserve their own repository. 
