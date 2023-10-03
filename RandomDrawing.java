@@ -14,22 +14,18 @@ public class RandomDrawing <T> implements Cloneable {
 	//Private list for holding values
 	private ArrayList<T> box;
 	
-	//No-arg constructor
 	public RandomDrawing () {
 		box = new ArrayList<T>();
 	}
 	
-	//Add value to list
 	public void add(T value) {
 		box.add(value);
 	}
 	
-	//Empty?
 	public boolean isEmpty() {
 		return box.isEmpty();
 	}
 	
-	//ToString
 	@Override
 	public String toString() {
 		String list = "";
@@ -39,13 +35,11 @@ public class RandomDrawing <T> implements Cloneable {
 		return list;
 	}
 	
-	//Clone - deep copy
 	@Override
 	public Object clone(){
 		try {
-			//Shallow Copy
 			RandomDrawing<T> drawingClone = (RandomDrawing<T>) super.clone();
-			drawingClone.box = ( ArrayList<T>)this.box.clone();
+			drawingClone.box = (ArrayList<T>)this.box.clone();
 			return drawingClone;
 		}
 		//Casting potential exception
