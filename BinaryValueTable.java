@@ -4,8 +4,6 @@ Project Title: Signed Integer Binary Table
 Submission Date: October 18, 2023
 Description: This program asks for a length of binary digits and outputs a table displaying every possible binary combination for that number of bits,
 along with their values in signed magnitude, 1s complement, 2s complement, and Excess Notation
-
-
  */
 
 import java.util.ArrayList;
