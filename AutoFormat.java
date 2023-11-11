@@ -1,8 +1,6 @@
 /*
  * Class: COSC 231.10
  * Name: Apollo North Schaefer
- *EID: E02197111
- *Lab: 04 (Part 01)
  *Date: 2023-09-30 SAT T 23:59:00 Z-04:00
  *
  *Requires: 12 .csv files located in an "input" directory, where the "input" directory is located inside the same directory as the program. Also requires a similary placed
